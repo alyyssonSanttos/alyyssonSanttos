@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=9AA5ACC3&random=false&width=500&height=80&lines=Ol%C3%A1%2C+Sejam+bem+vindo+ao+meu+perfil...;Meu+nome+%C3%A9+Allysson+Santtos;Espero+que+gostem+dos++projetos+feitos+por+mim!)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 Não estou trabalhando atualmente.<br>👯 Estou procurando colaborar com o mundo da Programação.<br>🤝 Estou procurando ajuda com o meu desenvolvimento.<br>🌱 Estou aprendendo atualmente : HTML, CSS3, JavaScript, Node.js, React.js, Bootstrap<br>💬 Pergunte-me sobre :Tecnologia, Estudo, Motivação<br>⚡ Fato engraçado 
 
